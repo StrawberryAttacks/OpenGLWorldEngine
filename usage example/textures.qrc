@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>water.jpg</file>
+        <file>ice1_n.jpg</file>
+        <file>skybox0.png</file>
+        <file>ice_texture.jpg</file>
+        <file>cl_ppl.jpg</file>
+        <file>pillow.jpg</file>
+    </qresource>
+</RCC>
